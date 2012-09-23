@@ -20,6 +20,10 @@
 		<developerConnection>scm:git:git@github.com:mikera/${project.artifactId}.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
+	
+	<prerequisites>
+		<maven>2.2.1</maven>
+	</prerequisites>
 
 	<licenses>
 		<license>
