@@ -83,7 +83,7 @@
 
 	<distributionManagement>
 		<repository>
-			<id>clojars</id>
+			<id>clojars.org</id>
 			<name>Clojars repository</name>
 			<url>https://clojars.org/repo</url>
 		</repository>
