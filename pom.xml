@@ -6,7 +6,7 @@
 	<packaging>pom</packaging>
 
 	<name>Mikera POM</name>
-	<description>Standard parent pom.xml for mikera projects</description>
+	<description>Standard parent pom.xml for net.mikera projects</description>
 
 	<parent>
 		<groupId>org.sonatype.oss</groupId>
